@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StarwarsDemo</string>
+    <string name="network_not_available">Network Not Available.</string>
+</resources>
